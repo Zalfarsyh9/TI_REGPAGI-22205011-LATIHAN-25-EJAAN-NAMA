@@ -8,6 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski 
+ Nim : 22205011
+ Jurusan : Teknik Informatika
+ Deskripsi : Buatlah ejaan nama yang diinput yang berasal dari user berikut
  */
 public class TI_REGPAGI22205011latihan25ZalfaJava {
 
